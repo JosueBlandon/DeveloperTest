@@ -1,3 +1,6 @@
+/*
+Editado por Josué Blandón - 06/10/2020
+*/
 public class EmailManager {
     // Public method
     public static void sendMail(String address, String subject, String body) {
